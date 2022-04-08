@@ -2,6 +2,10 @@
   font-family: '小塚ゴシック Pro','Kozuka Gothic Pro'
 }
 
+body{
+    margin: 0;
+}
+
 h2{
   font-size: 40px;
 }
